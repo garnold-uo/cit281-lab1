@@ -1,0 +1,19 @@
+total 0
+drwx------@   8 garrettarnold  staff    256 May  2  2021 Applications
+drwx------@   4 garrettarnold  staff    128 Feb 13  2021 Creative Cloud Files
+drwx------@  76 garrettarnold  staff   2432 Mar 31 13:24 Desktop
+drwx------@  17 garrettarnold  staff    544 Feb 16 12:24 Documents
+drwx------@ 478 garrettarnold  staff  15296 Mar 31 13:03 Downloads
+drwx------@  10 garrettarnold  staff    320 Dec 12 15:01 Dropbox
+drwxr-xr-x    3 garrettarnold  staff     96 Apr  6  2020 EpuborLog
+drwxr-xr-x    2 garrettarnold  staff     64 Jul 10  2020 KCR
+drwx-w--w-@  90 garrettarnold  staff   2880 Oct 31 23:19 Library
+drwx------+   7 garrettarnold  staff    224 May 31  2020 Movies
+drwx------+   9 garrettarnold  staff    288 Aug  2  2020 Music
+drwx------+   6 garrettarnold  staff    192 Apr  3  2020 Pictures
+drwxr-xr-x+   5 garrettarnold  staff    160 Sep  7  2020 Public
+drwxrwxrwx    3 garrettarnold  staff     96 Sep  9  2020 Spitfire
+drwxr-xr-x    7 garrettarnold  staff    224 Nov 14  2020 Splice
+drwxr-xr-x   10 garrettarnold  staff    320 Mar 31 13:19 cit281
+drwxrwxr-x@   4 garrettarnold  staff    128 Jan  9  2020 garnold@uoregon.edu Creative Cloud Files (enterprise)
+-rw-r--r--    1 garrettarnold  staff      0 Mar 31 13:27 lab-01-folders.txt
