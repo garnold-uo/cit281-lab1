@@ -1,1 +1,1 @@
-# Lab 1 (Create first JS/node.js project)
+Lab 1: Create first JavaScript/node.js project
